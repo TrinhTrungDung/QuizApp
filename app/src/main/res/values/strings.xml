@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">"Quiz App"</string>
+    <string name="name_input">Your fullname&#x2026;</string>
+    <string name="quiz_1">1. Who was the President of the USA?</string>
+    <string name="ans_a_quiz_1">Hồ Chí Minh</string>
+    <string name="ans_b_quiz_1">Barack Obama</string>
+    <string name="ans_c_quiz_1">Abraham Lincoln</string>
+    <string name="ans_d_quiz_1">Trịnh Trung Dũng</string>
+    <string name="quiz_2">2. What is the definition of <font color="red">stamina</font>?</string>
+    <string name="ans_a_quiz_2">endurings strength and energy.</string>
+    <string name="ans_b_quiz_2">weighing a ton.</string>
+    <string name="ans_c_quiz_2">to fight someone with eagerness.</string>
+    <string name="quiz_3">3. Which kind of waves are used to make and receive cellphone calls?</string>
+    <string name="ans_a_quiz_3">Visible light waves</string>
+    <string name="ans_b_quiz_3">Sound waves</string>
+    <string name="ans_c_quiz_3">Gravity waves</string>
+    <string name="ans_d_quiz_3">Radio waves</string>
+    <string name="quiz_4">4. How many TextViews did I use for this app? xD</string>
+    <string name="edit_text_instruction">Type here&#x2026;</string>
+    <string name="submit_button">Submit</string>
+</resources>
